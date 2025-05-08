@@ -1,4 +1,4 @@
-# Creating An ALert Rule In Sentinel — Detecting Malicious PowerShell Web Requests in Sentinel
+# Creating An Alert Rule In Sentinel — Detecting Malicious PowerShell Web Requests in Sentinel
 
 ## Explanation
 
