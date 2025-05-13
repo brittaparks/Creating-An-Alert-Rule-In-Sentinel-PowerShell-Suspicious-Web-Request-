@@ -161,8 +161,6 @@ Scripts were executed multiple times on or before April 7, 2025.
 - Recommended changing MDE data retention policy to 6 months.
 - Suggested restricting PowerShell access for non-essential users.
 
-# Post-Incident Activities
-
 **Final Review and Closure**
 - **Incident Review**
   - Malicious scripts were confirmed and the system was remediated.
